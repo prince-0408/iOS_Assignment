@@ -15,7 +15,7 @@ class HomeViewController: UIViewController, UITableViewDelegate, UITableViewData
     override func viewDidLoad() {
         super.viewDidLoad()
         genereTypeTableView.tableFooterView = UIView()
-        self.title = "Select Genere Type"
+        self.title = "Genere Type"
 
         // Do any additional setup after loading the view.
     }
